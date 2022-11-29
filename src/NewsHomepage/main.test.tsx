@@ -1,15 +1,15 @@
 import { render, screen } from "@testing-library/react";
 
-import App from "./App";
+import Home from "./index";
 
-describe("App", () => {
+describe("NewsHomePage", () => {
   it("renders headline", () => {
-    render(<App />);
+    render(<Home />);
 
     expect(
       screen.getByRole("heading", {
         level: 1,
       })
-    ).toHaveTextContent("React Starter Template");
+    ).toHaveTextContent("The Bright Future of Web 3.0?");
   });
 });

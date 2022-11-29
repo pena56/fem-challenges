@@ -1,8 +1,12 @@
+import { Routes, Route } from "react-router-dom";
+
+import NewsHomePage from "./NewsHomepage";
+
 function App() {
   return (
-    <div>
-      <h1>React Starter Template</h1>
-    </div>
+    <Routes>
+      <Route path="/news" element={<NewsHomePage />} />
+    </Routes>
   );
 }
 
