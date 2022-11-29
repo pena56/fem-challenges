@@ -1,54 +1,37 @@
-# React Typescript - Starter Template
+# Frontend Mentor Challenge Solutions
 
-This is a starter template for react and typescript created with [Vite](https://vitejs.dev/guide/).
+This repository contains the solutions to the Frontend Mentor challenges in which I have participated.
 
-## Dependencies
+## Table of contents
 
-- [React](https://reactjs.org/)
-- [React Router Dom](https://reactrouter.com/en/main)
+- [Overview](#overview)
+- [Solved Challenges](#solved-challenges)
+  - [News Homepage](#news-homepage-solution)
+- [Useful resources](#useful-resources)
 
-## Dev Dependencies
+## Overview
 
-- [Typescript](https://www.typescriptlang.org/docs/)
-- [Vitest](https://vitest.dev/guide/)
-- [Eslint (Using Airbnb Style Guide)](https://eslint.org/docs/latest/user-guide/getting-started)
-- [Prettier](https://prettier.io/docs/en/install.html)
-- [Lint-Staged](https://www.npmjs.com/package/lint-staged)
-- [CommitLint](https://commitlint.js.org/#/)
-- [Husky Precommit Hooks](https://typicode.github.io/husky/#/)
+This is my reason for participating in this challenge: to improve my front-end skills.
 
-## Installation Guide
+As a frontend developer, it could become difficult to improve in your learning journey as the time to work on side projects and also explore new and exciting technologies seems to be gone.
 
-1. Clone the repo to your computer
+This is where the frontend challenges on Frontend Mentor come in handy. Not only do you get to improve your frontend skills, but you also get to tackle these challenges with those new technologies you've been meaning to explore for a while. (I'm looking at you, typescript.)
 
-2. Open your terminal and run the command using npm
+## Solved Challenges
 
-   ```bash
-   npm install
-   ```
+You can view the solutions to the challenges I've solved so far. The goal here is to solve five of these challenges every week.
 
-3. Start the development server with
+1. ### News homepage solution
 
-   ```bash
-   npm run dev
-   ```
+   - Challenge URL: [Add solution URL here](https://your-solution-url.com)
+   - Live Site URL: [Add solution URL here](https://your-solution-url.com)
+   - Github URL: [Add live site URL here](https://your-live-site-url.com)
 
-## What to setup your own React Project?
+   - ### Built with
 
-### Here are some resources that will help you out.
-
-<br/><br/>
-
-### ESLint with VSCode, Prettier, Husky and React for Beginners
-
- <br />
-
-[![IMAGE_ALT](https://i3.ytimg.com/vi/ZXW6Jn6or1w/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZXW6Jn6or1w)
-
-<br/><br/>
-
-### Setting up vite, React, Typescript, eslint, vitest, testing-library and react router
-
-<br />
-
-[![IMAGE_ALT](https://i3.ytimg.com/vi/cchqeWY0Nak/maxresdefault.jpg)](https://www.youtube.com/watch?v=cchqeWY0Nak)
+     - Semantic HTML5 markup
+     - CSS custom properties
+     - Flexbox
+     - Mobile-first workflow
+     - [React](https://reactjs.org/) - JS library
+     - [SASS](https://styled-components.com/) - For styles

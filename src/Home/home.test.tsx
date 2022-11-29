@@ -1,15 +1,15 @@
 import { render, screen } from "@testing-library/react";
 
-import App from "./App";
+import Home from "./index";
 
-describe("App", () => {
+describe("Home", () => {
   it("renders headline", () => {
-    render(<App />);
+    render(<Home />);
 
     expect(
       screen.getByRole("heading", {
         level: 1,
       })
-    ).toHaveTextContent("React Starter Template");
+    ).toHaveTextContent("Solutions to Frontend Mentor Challenges");
   });
 });
