@@ -1,0 +1,36 @@
+.container {
+  width: 100%;
+  max-width: 1160px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 1rem;
+  position: relative;
+
+  img,
+  .menuIcon {
+    width: 3rem;
+    height: auto;
+    object-fit: contain;
+    cursor: pointer;
+  }
+
+  .menuIcon {
+    width: 2.7rem;
+  }
+}
+
+@media (min-width: 900px) {
+  .container {
+    padding-top: 6rem;
+
+    img {
+      width: 4.2rem;
+    }
+
+    .menuIcon {
+      display: none;
+    }
+  }
+}
