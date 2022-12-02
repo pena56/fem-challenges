@@ -35,3 +35,18 @@ You can view the solutions to the challenges I've solved so far. The goal here i
      - Mobile-first workflow
      - [React](https://reactjs.org/) - JS library
      - [SASS](https://styled-components.com/) - For styles
+
+2. ### Notifications Page solution
+
+   - Challenge URL: [Add solution URL here](https://your-solution-url.com)
+   - Live Site URL: [Add solution URL here](https://your-solution-url.com)
+   - Github URL: [Add live site URL here](https://your-live-site-url.com)
+
+   - ### Built with
+
+     - Semantic HTML5 markup
+     - CSS custom properties
+     - Flexbox
+     - Mobile-first workflow
+     - [React](https://reactjs.org/) - JS library
+     - [SASS](https://styled-components.com/) - For styles
