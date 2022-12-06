@@ -1,0 +1,17 @@
+@import "../../base.scss";
+
+.button {
+  width: 100%;
+  border: none;
+  background: $violet-300;
+  color: $white;
+  padding: 0.8rem 0;
+  font-size: 0.9rem;
+  border-radius: 10px;
+}
+
+@media (min-width: 900px) {
+  .button {
+    max-width: 20rem;
+  }
+}
